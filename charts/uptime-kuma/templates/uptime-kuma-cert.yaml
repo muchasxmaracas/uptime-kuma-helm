@@ -10,4 +10,3 @@ spec:
     kind: ClusterIssuer
   dnsNames:
     - uptime.baphomet.cloud
-    - www.uptime.baphomet.cloud
